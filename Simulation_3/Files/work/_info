@@ -1,0 +1,109 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/user/Google Drive/courses/current/modelsim ex/ex3/sim3_files
+vrv_ctl
+Z0 DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+Z1 !s110 1593422024
+!i10b 1
+!s100 M0?a]OHdOWCnj4QY7WgQn0
+I8A;;j0;JU3:UQeZD:]KBS2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 rv_ctl_sv_unit
+S1
+Z3 dC:/Omer/Omer/semester_2_verilog/Simulation_3
+w1593352994
+8rv_ctl.sv
+Frv_ctl.sv
+Z4 Fparams.inc
+L0 7
+Z5 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z6 !s108 1593422024.000000
+Z7 !s107 params.inc|rv_top.sv|rv_sim.sv|rv_dp.sv|rv_ctl.sv|
+Z8 !s90 -reportprogress|300|rv_ctl.sv|rv_dp.sv|rv_sim.sv|rv_top.sv|
+!s101 -O0
+!i113 1
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vrv_dp
+R0
+R1
+!i10b 1
+!s100 bk@QU9G^FPfQlXH4[N[3g2
+IgMM`Bo?4_GQUo]m_:z<;83
+R2
+!s105 rv_dp_sv_unit
+S1
+R3
+w1593386666
+8rv_dp.sv
+Frv_dp.sv
+R4
+L0 7
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+!i113 1
+R9
+vrv_sim
+R0
+R1
+!i10b 1
+!s100 HZbb>^f[VWLfnFcAB=_`c0
+I@^37cViM1^_j<CGjGP@OT3
+R2
+!s105 rv_sim_sv_unit
+S1
+R3
+w1593352950
+8rv_sim.sv
+Frv_sim.sv
+R4
+L0 7
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+!i113 1
+R9
+vrv_top
+R0
+R1
+!i10b 1
+!s100 R1j1RZ]PKd3a610FfbMZ`1
+Ikb48GQT=6m;MX7AJGWoi?3
+R2
+!s105 rv_top_sv_unit
+S1
+R3
+w1593355902
+8rv_top.sv
+Frv_top.sv
+L0 8
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!s101 -O0
+!i113 1
+R9
